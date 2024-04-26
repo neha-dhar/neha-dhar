@@ -1,0 +1,44 @@
+Problem Statement : Consumer Behavior Analysis
+a. Identifying emerging trends and shifts in consumer preferences.
+b. Assessing the impact of consumer sentiment on market dynamics and sector performance.
+c. Evaluating the resilience of consumer-facing industries to economic downturns and disruptions.
+
+Datasets to be used:
+
+	Federal Reserve Economic Data (FRED)	Economic Indicators
+Online Shopping Data	E-commerce platforms	Amazon, eBay, Shopify
+
+	Market research firms	eMarketer, Statista
+
+Social Media Data	Twitter API	Twitter Developer Platform
+
+	Facebook Graph API	Facebook for Developers
+
+	Instagram Graph API	Instagram for Developers
+
+Demographic Data	U.S. Census Bureau	American Community Survey (ACS)
+	National statistical agencies (other countries)	Varies by country
+	Market research firms	Varies by provider
+Credit Card Transaction Data	Credit card companies	Varies by credit card issuer
+	Third-party data providers	Varies by provider
+Housing Market Data	National Association of Realtors (NAR)	Housing Market Reports
+	Real estate websites (e.g., Zillow, Realtor.com)	Zillow, Realtor.com
+
+	Government agencies (e.g., HUD)	U.S. Department of Housing and Urban Development (HUD)
+
+Travel and Leisure Data	Airlines, hotels, travel booking platforms	Varies by provider
+	Tourism boards, government agencies	Varies by country or region
+	Market research firms	Varies by provider
+Survey Data	Market research firms	Varies by provider
+	Government agencies	Varies by country or region
+	Academic institutions	Varies by institution
+
+
+
+
+Data Engineering : Scalability and Resilience 
+
+
+
+
+Analyctis/ Visualization 
